@@ -1,0 +1,124 @@
+[
+  {
+    "title": "Luxury Apartment in the City Center",
+    "location": "Mumbai",
+    "price": 250,
+    "amenities": ["WiFi", "Kitchen", "Parking", "Pool"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-10", "2024-07-15", "2024-07-20"]
+  },
+  {
+    "title": "Heritage Bungalow",
+    "location": "Delhi",
+    "price": 180,
+    "amenities": ["WiFi", "Garden", "Parking", "Breakfast Included"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-12", "2024-07-13","2024-07-18", "2024-07-25"]
+  },
+  {
+    "title": "Modern Flat with City Views",
+    "location": "Bangalore",
+    "price": 200,
+    "amenities": ["WiFi", "Gym", "Pool", "Parking"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-14", "2024-07-17", "2024-07-22"]
+  },
+  {
+    "title": "Beachfront Villa",
+    "location": "Goa",
+    "price": 220,
+    "amenities": ["WiFi", "Pool", "Beach Access", "Parking"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-11", "2024-07-16", "2024-07-21"]
+  },
+  {
+    "title": "Charming Cottage in the Hills",
+    "location": "Manali",
+    "price": 150,
+    "amenities": ["WiFi", "Parking", "Garden", "Fireplace"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-13", "2024-07-19", "2024-07-24"]
+  },
+  {
+    "title": "Luxury Penthouse",
+    "location": "Hyderabad",
+    "price": 300,
+    "amenities": ["WiFi", "Gym", "Pool", "Parking"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-09", "2024-07-14", "2024-07-23"]
+  },
+  {
+    "title": "Rustic Cabin in the Woods",
+    "location": "Munnar",
+    "price": 130,
+    "amenities": ["WiFi", "Fireplace", "Hiking Trails", "Breakfast Included"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-08", "2024-07-12", "2024-07-20"]
+  },
+  {
+    "title": "Modern Studio Apartment",
+    "location": "Pune",
+    "price": 120,
+    "amenities": ["WiFi", "Kitchen", "Parking"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-07", "2024-07-13", "2024-07-19"]
+  },
+  {
+    "title": "Traditional Haveli",
+    "location": "Jaipur",
+    "price": 190,
+    "amenities": ["WiFi", "Garden", "Breakfast Included", "Parking"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-10", "2024-07-15", "2024-07-21"]
+  },
+  {
+    "title": "Riverside Cottage",
+    "location": "Rishikesh",
+    "price": 160,
+    "amenities": ["WiFi", "Garden", "Parking", "River View"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-11", "2024-07-16", "2024-07-22"]
+  },
+
+ 
+  {
+    "title": "Deluxe Apartment",
+    "location": "Delhi",
+    "price": 150,
+    "amenities": ["WiFi", "Kitchen", "Gym", "Free Toiletries"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-14", "2024-07-20", "2024-07-27"]
+  },
+  {
+    "title": "Cozy Studio",
+    "location": "Delhi",
+    "price": 120,
+    "amenities": ["WiFi", "AC", "Swimming Pool", "Laundry Service"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-16", "2024-07-22", "2024-07-29"]
+  },
+  {
+    "title": "Modern Loft",
+    "location": "Delhi",
+    "price": 200,
+    "amenities": ["WiFi", "Balcony", "Spa", "Room Service"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-10", "2024-07-17", "2024-07-24"]
+  },
+  {
+    "title": "Luxury Villa",
+    "location": "Mumbai",
+    "price": 250,
+    "amenities": ["WiFi", "Private Pool", "Chef", "Airport Transfer"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-11", "2024-07-19", "2024-07-26"]
+  },
+  {
+    "title": "Seaside Cottage",
+    "location": "Mumbai",
+    "price": 180,
+    "amenities": ["WiFi", "Ocean View", "Daily Housekeeping", "Barbecue Area"],
+    "img": "https://via.placeholder.com/300",
+    "bookedDates": ["2024-07-13", "2024-07-21", "2024-07-28"]
+  }
+]
